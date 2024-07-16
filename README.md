@@ -59,4 +59,4 @@ Al iniciar la aplicación, se muestra un menú principal con las opciones dispon
 1. Clone el repositorio:
 
    ```bash
-   git clone 
+   git clone https://github.com/GiseC/ChallengeLiteralura.git
